@@ -5,7 +5,7 @@
 -->
 <h3> Acerca de mí</h3>
 
-<h4> Soy analista de sistemas especializado en diseño web, con un enfoque principal en el desarrollo front-end. Me apasiona crear interfaces de usuario intuitivas y atractivas, utilizando herramientas como Figma para diseñar y prototipar soluciones UI que mejoren la experiencia del usuario.</h4>
+<h5> Soy analista de sistemas especializado en diseño web, con un enfoque principal en el desarrollo front-end. Me apasiona crear interfaces de usuario intuitivas y atractivas, utilizando herramientas como Figma para diseñar y prototipar soluciones UI que mejoren la experiencia del usuario.</h5>
 
 ## Mis habilidades
 
