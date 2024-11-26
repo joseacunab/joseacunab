@@ -1,4 +1,4 @@
-## Hola, soy José, desarrollador web   👋
+## Hola, soy José, desarrollador web   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <!--
 **joseacunab/joseacunab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
