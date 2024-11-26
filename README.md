@@ -5,7 +5,7 @@
 -->
 <h3> Acerca de mí</h3>
 
-Soy analista de sistemas con especialización en desarrollo web, enfocado principalmente en el área de front-end. Me apasiona crear experiencias de usuario atractivas y funcionales, utilizando las últimas tecnologías y buenas prácticas del desarrollo web. Siempre estoy en constante aprendizaje para mejorar mis habilidades y contribuir a proyectos innovadores.
+Soy analista de sistemas especializado en desarrollo web, con enfoque en front-end. Me apasiona crear experiencias de usuario funcionales y atractivas, utilizando las mejores tecnologías y buenas prácticas. También tengo experiencia en diseño UI con Figma, creando prototipos interactivos para interfaces coherentes y fáciles de usar.
 
 ## Mis habilidades
 
