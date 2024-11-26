@@ -9,7 +9,7 @@ Soy analista de sistemas con especialización en desarrollo web, enfocado princi
 
 ## Mis habilidades
 
-##Front-end
+## Mis habilidades
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
